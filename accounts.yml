@@ -1,8 +1,8 @@
 build:
-  version: "2.8"
+  version: "1.8"
 
 accounts:
-  message: "Welcome to EazyBank accounts related loca APIs "
+  message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
